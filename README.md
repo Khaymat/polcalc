@@ -77,7 +77,7 @@ d/dx (a_nx^n) = n a_n x^{n-1}
 - Add **graphing support** for polynomial visualization
 
 ## 📝 **License**
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache License 2.0 with Attribution Requirement** – see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 **Contributing**
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to modify.
