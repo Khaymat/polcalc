@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow Android folder
+!android/
+!android/**
+
+# Keep necessary config files
+!.gitignore
+!pubspec.yaml
+!pubspec.lock
+!README.md
