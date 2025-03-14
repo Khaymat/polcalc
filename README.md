@@ -87,5 +87,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 🔗 **Connect with Me**
 - **GitHub:** [Khaymat](https://github.com/Khaymat)
 - **LinkedIn:** [Rafi Khairan](https://www.linkedin.com/in/rafikhairan/)
-- **Email:** [My Email](mailto:@rafikhairan120@gmail.com)
+- **Email:** [My Email](mailto:rafikhairan120@gmail.com)
 
