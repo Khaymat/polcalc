@@ -7,7 +7,7 @@ PolCalc is a **Flutter-based polynomial calculator** designed for efficient alge
 - **Polynomial Arithmetic** – Addition, subtraction, multiplication, and division
 - **Efficient Evaluation** – Uses **Horner’s Method** for fast polynomial evaluation
 - **Derivative & Irreducibility Tests** – Formal differentiation and polynomial analysis
-- **Finite Field Arithmetic** – Supports operations in **GF(q)** for cryptographic applications
+- **Finite Field Arithmetic** – Supports operations in **GF(p)** for cryptographic applications
 - **Modern UI** – Dark Mode, smooth animations, and a typewriter-style splash screen
 
 ## 🔧 **Installation**
@@ -69,7 +69,7 @@ d/dx (a_nx^n) = n a_n x^{n-1}
 ```
 
 ## 📲 **Download APK**
-📥 **Download APK**: [Click Here](https://drive.google.com/uc?export=download&id=1M-EKjIf5QDT7BXjxoRE2iYp4a_GtV_vA)
+📥 **Download APK**: [Click Here](https://drive.google.com/uc?export=download&id=1TjMrRI_CbTyrd0ZwP8Ln07ExxcehISJ2)
 
 ## 🔜 **Future Plans**
 - Implement **polynomial factorization over GF(q)**
